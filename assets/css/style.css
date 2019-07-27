@@ -198,7 +198,7 @@ input[type=submit] {
 
 @media only screen and (max-width: 980px) {
     .main-section {
-    max-width: 640px;
+    max-width: 670px;
     }
 
 }
@@ -225,10 +225,12 @@ input[type=submit] {
     }
     nav {
     float:none;
+    margin-left:25%;
     }
     #logo {
     float:none;
-    min-width:640px;
+    min-width:100%;
     text-align:center;
+    display:inline-block;
     }
 }
