@@ -217,6 +217,7 @@ input[type=submit] {
     #masthead {
     position: static;
     width:100%;
+    text-align:center;
     }
     .auth-image {
     float:none;
@@ -225,7 +226,8 @@ input[type=submit] {
     }
     nav {
     float:none;
-    margin-left: 25%;
+    width: 100%;
+    display: inline-block;
     }
     #logo {
     float:none;
